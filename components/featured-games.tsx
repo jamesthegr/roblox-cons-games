@@ -6,28 +6,28 @@ const games = [
     title: "Your Sus Gas Station Worker",
     description: "Work at the gas station in this interactive roleplay experience",
     image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-MZuKFd1mgO6Op8qi5tmOMhPgqKHtPE.png",
-    redirectUrl: "https://www.robiox.com.py/games/15932212022/your-sus-gas-station-worker?privateServerLinkCode=252619757547510464847291988837",
+    redirectUrl: "https://www.roblox.com.ml/games/15932212022/your-sus-gas-station-worker?privateServerLinkCode=39422620633984157170371300026713",
   },
   {
     id: 2,
     title: "AI NPC Friends",
     description: "Chat and interact with AI-powered NPCs in this social experience",
     image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-x7EBpStiVaadtzv33wnQ4skcdahzp9.png",
-    redirectUrl: "https://www.robiox.com.py/games/88848566014743/NPC-Friends?privateServerLinkCode=252619757547510464847291988837",
+    redirectUrl: "https://www.roblox.com.ml/games/102168567330694/Character-Talk?privateServerLinkCode=39422620633984157170371300026713",
   },
   {
     id: 3,
     title: "Neko Girl Town",
     description: "Explore a vibrant town filled with neko characters and adventures",
     image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-CJ47oBaCFWuH4nTgLT2V5bz3cZF20M.png",
-    redirectUrl: "https://www.robiox.com.py/games/126018438287036/Neko-Girl-Town?privateServerLinkCode=252619757547510464847291988837",
+    redirectUrl: "https://www.roblox.com.ml/games/126018438287036/Neko-Girl-Town?privateServerLinkCode=39422620633984157170371300026713",
   },
   {
     id: 4,
     title: "Weird Neko Untitled Game",
     description: "A unique and mysterious neko-themed adventure experience",
     image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-3KGj1YI9uE0ucJ823PWpM5e0xOvZPn.png",
-    redirectUrl: "https://www.robiox.com.py/games/76106209840076/Weird-Neko-Untitled-Game?privateServerLinkCode=252619757547510464847291988837",
+    redirectUrl: "https://www.roblox.com.ml/games/76106209840076/Weird-Neko-Untitled-Game?privateServerLinkCode=39422620633984157170371300026713",
   },
 ]
 
